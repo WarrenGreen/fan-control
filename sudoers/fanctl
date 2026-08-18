@@ -1,0 +1,2 @@
+%admin ALL=(root) NOPASSWD: /usr/local/bin/fanctl max
+%admin ALL=(root) NOPASSWD: /usr/local/bin/fanctl auto
