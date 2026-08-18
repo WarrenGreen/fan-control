@@ -1,3 +1,5 @@
+<img width="338" height="372" alt="Screenshot 2026-08-18 at 4 55 28 PM" src="https://github.com/user-attachments/assets/d1ef02d2-4987-435b-87e7-e668086c5724" />
+
 # Fan Control
 
 Menu bar app for Apple Silicon Macs. Pin the fans at hardware max, or give them back to Apple's thermal curve.
